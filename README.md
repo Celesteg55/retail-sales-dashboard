@@ -1,4 +1,4 @@
-# retail-sales-dashoboard
+# retail-sales-dashboard
 # 🧾 Retail Sales Dashboard (Excel)
 
 ## 📖 Overview
