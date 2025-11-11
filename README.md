@@ -17,7 +17,7 @@ An interactive Excel dashboard visualizing retail performance metrics, including
 - Slicers for interactivity
 
 ## 📊 Preview
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ## 💡 Insights
 This dashboard allows stakeholders to monitor key business metrics at a glance and identify sales trends across regions and product categories.
